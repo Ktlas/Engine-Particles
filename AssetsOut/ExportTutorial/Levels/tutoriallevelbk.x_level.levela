@@ -1,0 +1,8 @@
+LevelLoader.CreateGameObject("PEObject1_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -8.326546, 0.0, -4.034357, 1.0, 'TutorialLevelBK.x_PEObject1_pPlane.lua', 'ExportTutorial',0xa89a39cf, 0x0ce011ec, 0x8c45b0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject0_transf",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -2528.026447, 0.0, -0.0, 1.0, 'TutorialLevelBK.x_PEObject0_transf.lua', 'ExportTutorial',0x722556a1, 0x0ce011ec, 0x8ccfb0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject2_transf",0.933535, 0.0, -0.358487, 0.0, -0.0, 1.0, -0.0, 0.0, 0.358487, 0.0, 0.933535, 0.0, -2322.788402, 0.0, 1369.21648, 1.0, 'TutorialLevelBK.x_PEObject2_transf.lua', 'ExportTutorial',0xb74fa321, 0x0ce011ec, 0x987db0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject3_transf",0.967501, 0.0, 0.252866, 0.0, 0.0, 1.0, -0.0, 0.0, -0.252866, -0.0, 0.967501, 0.0, -2306.323109, 0.0, -1418.525904, 1.0, 'TutorialLevelBK.x_PEObject3_transf.lua', 'ExportTutorial',0xd3e91c00, 0x0ce011ec, 0xa2eeb0a4, 0x60d08703)
+

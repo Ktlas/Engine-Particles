@@ -1,0 +1,20 @@
+LevelLoader.CreateGameObject("PEObject9_nazi_rep",-1.0, 0.0, 0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, -1.0, 0.0, -221.74012, 0.0, 585.331923, 1.0, 'TutorialLevel.x_PEObject9_nazi_r.lua', 'ExportTutorial',0x8519484f, 0x0e7211ec, 0xad79b0a4, 0x60d08706)
+
+LevelLoader.CreateGameObject("PEObject8_TImrod",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, 0.0, 0.0, 605.419334, 1.0, 'TutorialLevel.x_PEObject8_TImrod.lua', 'ExportTutorial',0xafc04730, 0x0e7111ec, 0x8390b0a4, 0x60d08706)
+
+LevelLoader.CreateGameObject("PEObject1_pCar",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -376.086095, 0.0, -0.0, 1.0, 'TutorialLevel.x_PEObject1_pCar.lua', 'ExportTutorial',0xea41711e, 0x0c7f11ec, 0xbf5bb0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject2_pCar",0.564592, 0.0, -0.82537, 0.0, -0.0, 1.0, -0.0, 0.0, 0.82537, 0.0, 0.564592, 0.0, 347.125399, 0.0, -0.0, 1.0, 'TutorialLevel.x_PEObject2_pCar.lua', 'ExportTutorial',0x1b9e7740, 0x0c8011ec, 0xa82cb0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject5_polySurface1",-1.0, 0.0, 0.0, 0.0, -0.0, 0.5, -0.866025, 0.0, -0.0, -0.866025, -0.5, 0.0, 0.0, 300.0, -0.0, 1.0, 'TutorialLevel.x_PEObject5_polySu.lua', 'ExportTutorial',0x283bbf40, 0x0cde11ec, 0x9030b0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject6_Tstreetlight",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -580.0, 0.0, 530.0, 1.0, 'TutorialLevel.x_PEObject6_Tstree.lua', 'ExportTutorial',0xd454c100, 0x0cde11ec, 0xbdedb0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject3_pkingTiger",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, 0.0, 0.0, -913.390545, 1.0, 'TutorialLevel.x_PEObject3_pkingT.lua', 'ExportTutorial',0x533f3040, 0x0c8011ec, 0x9184b0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject7_TspotRep",1.0, 0.0, -0.0, 0.0, 0.0, -0.0, 1.0, 0.0, -0.0, -1.0, -0.0, 0.0, -580.0, 320.0, 530.0, 1.0, 'TutorialLevel.x_PEObject7_TspotR.lua', 'ExportTutorial',0xf3641bde, 0x0cde11ec, 0x850db0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject4_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, 0.0, 0.0, 2500.0, 1.0, 'TutorialLevel.x_PEObject4_pPlane.lua', 'ExportTutorial',0x4e6ffab0, 0x0cdd11ec, 0x8a99b0a4, 0x60d08703)
+
+LevelLoader.CreateGameObject("PEObject0_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, 0.0, 0.0, -0.0, 1.0, 'TutorialLevel.x_PEObject0_pPlane.lua', 'ExportTutorial',0xdc838730, 0x0c7f11ec, 0xadf7b0a4, 0x60d08703)
+
